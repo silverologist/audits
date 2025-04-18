@@ -16,7 +16,7 @@
 | 2025-01 | [iLayer](https://ilayer.io/) | Cross-chain orderbook | - |
 | 2025-01 | [inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | [Link](https://github.com/silverologist/audits/blob/master/private/2025-01-27-inferno-dot-fun-x-ABA.pdf) |
 | 2025-01 | [Accountable](https://www.accountable.capital/) | ERC7540 Vault | - |
-| 2025-01 | [iLayer](https://ilayer.io/) | LayerZero integration | [Link](https://github.com/silverologist/audits/blob/master/private/2025-03-13-ilayer-layerzero-integration-x-ABA-x-AlexCZM.pdf) |
+| 2025-01 | [iLayer](https://ilayer.io/) | LayerZero integration | [Link](https://github.com/silverologist/audits/blob/master/private/2025-03-13-ilayer-x-ABA-x-AlexCZM.pdf) |
 
 ## Secureum Races
 | Race | Date | Rank |
