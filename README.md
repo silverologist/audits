@@ -27,6 +27,12 @@
 | 2025-04 | [Liquify Ventures](https://liquify.ventures/) | Referral manager | [Link](https://github.com/silverologist/audits/blob/master/private/2025-04-25-liquify-ventures-referral-manager-x-ABA.pdf)
 | 2025-07 | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending | [Link](https://github.com/silverologist/audits/blob/master/private/2025-07-09-liquify-ventures-borrowing-and-lending-x-ABA.pdf)
 
+## Judging Engagements
+
+| Date | Project | Description |
+|------|---------|-------------|
+| 2025-01 | [CircuitDAO](https://cantina.xyz/competitions/7d650b99-8a40-49d1-9b65-2b060accfbb7) | Chia blockchain collateralized stablecoin |
+
 ## Secureum Races
 | Race | Date | Rank |
 |------|------|------|
