@@ -38,4 +38,6 @@
 |------|------|------|
 | [37](https://x.com/TheSecureum/status/1890620192998174732) | 2025-02 | 16 out of 51 |
 | [38](https://x.com/TheSecureum/status/1898739794651517163) | 2025-03 | 13 out of 47 |
-| [40](https://x.com/TheSecureum/status/1898739794651517163) | 2025-05 |  5 out of 62 |
+| [40](https://x.com/TheSecureum/status/1923630533948604611) | 2025-05 |  5 out of 62 |
+| [41](https://x.com/TheSecureum/status/1936416823471382648) | 2025-06 | 17 out of 50 |
+| [42](https://discord.com/channels/814328279468474419/927065287172427798/1391382085259886696) | 2025-07 | 13 out of 49 |
