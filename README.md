@@ -1,17 +1,16 @@
 # Security Audit Portofolio
 
 ## Private Engagements
-> **Note**: In all private audits listed, I participated as a junior auditor under the mentorship and guidance of senior auditor [ABA](https://github.com/abarbatei/).
 
-| Date | Project | Description | Report |
-|------|---------|-------------|--------|
-| 2025-07 | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending | [Link](https://github.com/silverologist/audits/blob/master/private/2025-07-09-liquify-ventures-borrowing-and-lending-x-ABA.pdf)
-| 2025-04 | [iLayer](https://ilayer.io/) | LayerZero integration | [Link](https://github.com/silverologist/audits/blob/master/private/2025-03-13-ilayer-x-ABA-x-AlexCZM.pdf) |
-| 2025-04 | [Liquify Ventures](https://liquify.ventures/) | Cross-chain distribution | [Link](https://github.com/silverologist/audits/blob/master/private/2025-04-24-liquify-ventures-unified-bridge-x-ABA.pdf)
-| 2025-04 | [Liquify Ventures](https://liquify.ventures/) | Referral manager | [Link](https://github.com/silverologist/audits/blob/master/private/2025-04-25-liquify-ventures-referral-manager-x-ABA.pdf)
-| 2025-03 | [Accountable](https://www.accountable.capital/) | ERC7540 Vault | - |
-| 2025-01 | [iLayer](https://ilayer.io/) | Cross-chain orderbook | - |
-| 2025-01 | [inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | [Link](https://github.com/silverologist/audits/blob/master/private/2025-01-27-inferno-dot-fun-x-ABA.pdf) |
+| Date | Project | Description | Report | Organization |
+|------|---------|-------------|--------|--------------|
+| 2025-07 | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending | [Link](https://github.com/silverologist/audits/blob/master/private/2025-07-09-liquify-ventures-borrowing-and-lending-x-ABA.pdf) | Under [ABA](https://github.com/abarbatei/) |
+| 2025-04 | [iLayer](https://ilayer.io/) | LayerZero integration | [Link](https://github.com/silverologist/audits/blob/master/private/2025-03-13-ilayer-x-ABA-x-AlexCZM.pdf) | Under [ABA](https://github.com/abarbatei/) |
+| 2025-04 | [Liquify Ventures](https://liquify.ventures/) | Cross-chain distribution | [Link](https://github.com/silverologist/audits/blob/master/private/2025-04-24-liquify-ventures-unified-bridge-x-ABA.pdf) | Under [ABA](https://github.com/abarbatei/) |
+| 2025-04 | [Liquify Ventures](https://liquify.ventures/) | Referral manager | [Link](https://github.com/silverologist/audits/blob/master/private/2025-04-25-liquify-ventures-referral-manager-x-ABA.pdf) | Under [ABA](https://github.com/abarbatei/) |
+| 2025-03 | [Accountable](https://www.accountable.capital/) | ERC7540 Vault | -  | Under [ABA](https://github.com/abarbatei/) |
+| 2025-01 | [iLayer](https://ilayer.io/) | Cross-chain orderbook | -  | Under [ABA](https://github.com/abarbatei/) |
+| 2025-01 | [inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | [Link](https://github.com/silverologist/audits/blob/master/private/2025-01-27-inferno-dot-fun-x-ABA.pdf)  | Under [ABA](https://github.com/abarbatei/) |
 
 ## Solo Public Competitions
 | Date | Contest | Rank |
