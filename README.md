@@ -6,17 +6,18 @@
 |------|---------|-------------|--------|--------------|----------|
 | 2025.12 | Undisclosed | Bridge<br>Offchain pollers | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity<br>TypeScript |
 | 2025.11 | [Bitflow](https://www.bitflow.finance/) | DLMM (upgrades) | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
-| 2025.11 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending (upgrades) | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
+| 2025.12 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending (upgrades v2) | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade%20V2.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
+| 2025.11 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending (upgrades) | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.10 | [Hermetica](https://hermetica.fi/) | hBTC yield protocol | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
-| 2025.09 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
+| 2025.09 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.09 | [Bitflow](https://www.bitflow.finance/) | DLMM | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
-| 2025.07 | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending | [Link](https://github.com/silverologist/audits/blob/master/private/2025-07-09-liquify-ventures-borrowing-and-lending-x-ABA.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
-| 2025.04 | [iLayer](https://ilayer.io/) | LayerZero integration | [Link](https://github.com/silverologist/audits/blob/master/private/2025-03-13-ilayer-x-ABA-x-AlexCZM.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
-| 2025.04 | [Liquify Ventures](https://liquify.ventures/) | Cross-chain distribution | [Link](https://github.com/silverologist/audits/blob/master/private/2025-04-24-liquify-ventures-unified-bridge-x-ABA.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
-| 2025.04 | [Liquify Ventures](https://liquify.ventures/) | Referral manager | [Link](https://github.com/silverologist/audits/blob/master/private/2025-04-25-liquify-ventures-referral-manager-x-ABA.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
+| 2025.07 | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending | [Link](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Liquify_Borrowing_And_Lending_Component_Audit_Report.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
+| 2025.04 | [iLayer](https://ilayer.io/) | LayerZero integration | [Link](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/iLayer_x_ABA_LayerZero_Integration_Audit_Report-v1.1.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
+| 2025.04 | [Liquify Ventures](https://liquify.ventures/) | Cross-chain distribution | [Link](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Unified_Bridge_Audit_Report-v1.1.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
+| 2025.04 | [Liquify Ventures](https://liquify.ventures/) | Referral manager | [Link](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Refferal_Manager_Upgrade_Audit_Report.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
 | 2025.03 | [Accountable](https://www.accountable.capital/) | ERC7540 Vault | -  | Under [ABA](https://x.com/abarbatei) | Solidity |
 | 2025.01 | [iLayer](https://ilayer.io/) | Cross chain orderbook | -  | Under [ABA](https://x.com/abarbatei) | Solidity |
-| 2025.01 | [inferno.fun](https://inferno.fun/) | Bonding curve launchpad | [Link](https://github.com/silverologist/audits/blob/master/private/2025-01-27-inferno-dot-fun-x-ABA.pdf)  | Under [ABA](https://x.com/abarbatei) | Solidity |
+| 2025.01 | [inferno.fun](https://inferno.fun/) | Bonding curve launchpad | [Link](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf)  | Under [ABA](https://x.com/abarbatei) | Solidity |
 
 ## Solo Public Competitions
 | Date | Contest | Rank | Language |
