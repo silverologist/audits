@@ -4,11 +4,13 @@
 
 | Date | Project | Description | Report | Organization | Language |
 |------|---------|-------------|--------|--------------|----------|
-| 2025.12 | Undisclosed | Bridge<br>Offchain pollers | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity<br>TypeScript |
+| 2026.03 | Undisclosed | Vault feature module | - | [CybaSecurity](https://cybasecurity.io/) | Solidity |
+| 2026.02 | Undisclosed | Cross chain liquidity | - | [CybaSecurity](https://cybasecurity.io/) | Clarity |
+| 2025.12 | [StacksLabs](https://stackslabs.com/) | USDCx bridge integration<br>Offchain pollers | [Link](https://2842511454-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH74xqoobupBWwBsVMJhK%2Fuploads%2FgGAENdVgcXrO33sFx8c6%2FUSDCx%20Security%20Review.pdf?alt=media&token=9fb5371d-9a95-4636-9a62-54eca3580fb0) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity<br>TypeScript |
 | 2025.11 | [Bitflow](https://www.bitflow.finance/) | DLMM (upgrades) | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.12 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending (upgrades v2) | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade%20V2.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.11 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending (upgrades) | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
-| 2025.10 | [Hermetica](https://hermetica.fi/) | hBTC yield protocol | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
+| 2025.10 | [Hermetica](https://hermetica.fi/) | hBTC yield protocol | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Hermetica%20Vaults.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.09 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.09 | [Bitflow](https://www.bitflow.finance/) | DLMM | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.07 | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending | [Link](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Liquify_Borrowing_And_Lending_Component_Audit_Report.pdf) | Under [ABA](https://x.com/abarbatei) | Solidity |
@@ -22,6 +24,7 @@
 ## Solo Public Competitions
 | Date | Contest | Rank | Language |
 |------|---------|------|----------|
+| 2025.11 | [Mento V3](https://cantina.xyz/competitions/fe8e03b1-f8db-4698-8a21-44b3a862e434) | 4 out of 629 | Solidity |
 | 2025.08 | [Solayer Bridge](https://cantina.xyz/competitions/0f543452-2076-438f-86ae-bbd6b065fffb) | 1 out of 306 | Rust |
 | 2025.07 | [Morpho Vaults V2](https://cantina.xyz/competitions/523e1540-f8c3-45ae-9c5d-b6d35d3a326c) | 9 out of 560 | Solidity |
 | 2025.06 | [Jigsaw Finance](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea) | 12 out of 759 | Solidity |
