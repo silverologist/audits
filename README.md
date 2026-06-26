@@ -4,8 +4,12 @@
 
 | Date | Project | Description | Report | Organization | Language |
 |------|---------|-------------|--------|--------------|----------|
-| 2026.03 | Undisclosed | Vault feature module | - | [CybaSecurity](https://cybasecurity.io/) | Solidity |
-| 2026.02 | Undisclosed | Cross chain liquidity | - | [CybaSecurity](https://cybasecurity.io/) | Clarity |
+| 2026.06 | [Accountable](https://www.accountable.capital/) | Staking module | - | [CybaSecurity](https://cybasecurity.io/) | Solidity |
+| 2026.05 | Undisclosed | Undisclosed | - | [ClarityAlliance](https://www.clarityalliance.org/) | Rust<br>Clarity |
+| 2026.03 | [Granite](https://www.granite.world/) | Enhancements and fix review | [Link](https://github.com/cybasecurity/audits/blob/main/reports/2026-05-22-Granite-Security-Enhancements-Audit.pdf) | [CybaSecurity](https://cybasecurity.io/) | Solidity |
+| 2026.03 | [Accountable](https://www.accountable.capital/) | Vault feature module | - | [CybaSecurity](https://cybasecurity.io/) | Solidity |
+| 2026.02 | [Sodax](https://www.sodax.com/) | Cross chain liquidity | [Link](https://github.com/icon-project/sodax-sdks/blob/main/Audits/2026.02.26%20-%20Final%20-%20Sodax%20Collaborative%20Audit%20Report%201772065303.pdf) | [CybaSecurity](https://cybasecurity.io/) | Clarity |
+| 2026.01 | [Hermetica](https://hermetica.fi/) | hBTC yield feature | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.12 | [StacksLabs](https://stackslabs.com/) | USDCx bridge integration<br>Offchain pollers | [Link](https://2842511454-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH74xqoobupBWwBsVMJhK%2Fuploads%2FgGAENdVgcXrO33sFx8c6%2FUSDCx%20Security%20Review.pdf?alt=media&token=9fb5371d-9a95-4636-9a62-54eca3580fb0) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity<br>TypeScript |
 | 2025.11 | [Bitflow](https://www.bitflow.finance/) | DLMM (upgrades) | - | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
 | 2025.12 | [Zest](https://www.zestprotocol.com/) | Borrowing and lending (upgrades v2) | [Link](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade%20V2.pdf) | [ClarityAlliance](https://www.clarityalliance.org/) | Clarity |
@@ -22,8 +26,10 @@
 | 2025.01 | [inferno.fun](https://inferno.fun/) | Bonding curve launchpad | [Link](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf)  | Under [ABA](https://x.com/abarbatei) | Solidity |
 
 ## Solo Public Competitions
+
 | Date | Contest | Rank | Language |
 |------|---------|------|----------|
+| 2026.06 | [StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) | 3 out of 773 | Solidity |
 | 2025.11 | [Mento V3](https://cantina.xyz/competitions/fe8e03b1-f8db-4698-8a21-44b3a862e434) | 4 out of 629 | Solidity |
 | 2025.08 | [Solayer Bridge](https://cantina.xyz/competitions/0f543452-2076-438f-86ae-bbd6b065fffb) | 1 out of 306 | Rust |
 | 2025.07 | [Morpho Vaults V2](https://cantina.xyz/competitions/523e1540-f8c3-45ae-9c5d-b6d35d3a326c) | 9 out of 560 | Solidity |
@@ -38,20 +44,19 @@
 | 2025.01 | [DESK Orderbook](https://cantina.xyz/competitions/68d65682-ed04-48aa-969d-09a335de3748) | 8 out of 573 | Solidity |
 | 2025.01 | [DAAO Contracts](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | 2 out of 292 | Solidity |
 
+## Bug Bounties
+
+| Date | Platform | Severity | Language |
+|------|----------|----------|----------|
+| 2026.05 | [Immunefi](https://immunefi.com/) | 1 Low | Solidity |
+| 2026.04 | [Orion Finance](https://www.orionfinance.ai/) | 1 Medium, 3 Low | Solidity |
+
 ## Judging Engagements
 
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026.06 | [Morpho Midnight](https://cantina.xyz/competitions/4679e0fa-85f7-4ea5-8827-ee6c70bdee6b) | Lending protocol |
 | 2025.10 | [Cantina](https://cantina.xyz/) | Bug bounties triager |
 | 2025.07 | [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51) | Lending exchange |
 | 2025.07 | [USDaf V2](https://cantina.xyz/competitions/3765f098-ef5c-47be-beb9-3f4ce9dcb407) | Liquity V2 fork |
 | 2025.06 | [CircuitDAO](https://cantina.xyz/competitions/7d650b99-8a40-49d1-9b65-2b060accfbb7) | Chia blockchain collateralized stablecoin |
-
-## Secureum Races
-| Race | Date | Rank |
-|------|------|------|
-| [42](https://discord.com/channels/814328279468474419/927065287172427798/1391382085259886696) | 2025.07 | 13 out of 49 |
-| [41](https://x.com/TheSecureum/status/1936416823471382648) | 2025.06 | 17 out of 50 |
-| [40](https://x.com/TheSecureum/status/1923630533948604611) | 2025.05 |  5 out of 62 |
-| [38](https://x.com/TheSecureum/status/1898739794651517163) | 2025.03 | 13 out of 47 |
-| [37](https://x.com/TheSecureum/status/1890620192998174732) | 2025.02 | 16 out of 51 |
